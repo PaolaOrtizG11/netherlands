@@ -1,0 +1,44 @@
+@charset "utf-8";
+<style type="text/css">
+a:link {
+    color: #0F05FC;
+}
+a:visited {
+    color: #FF0000;
+}
+body,td,th {
+    color: #FFFFFF;
+}
+body {
+    background-image: url(background.jpg);
+}
+</style>
+body {
+}
+tr td h1 {
+}
+tbody tr td {
+}
+body table {
+    background-color: #19316D;
+}
+	body {
+    background-image: url(background.jpg), -webkit-linear-gradient(270deg,rgba(42,9,10,1.00) 40.41%,rgba(66,38,38,1.00) 74.61%);
+    background-image: url(background.jpg), -moz-linear-gradient(270deg,rgba(42,9,10,1.00) 40.41%,rgba(66,38,38,1.00) 74.61%);
+    background-image: url(background.jpg), -o-linear-gradient(270deg,rgba(42,9,10,1.00) 40.41%,rgba(66,38,38,1.00) 74.61%);
+    background-image: url(background.jpg), linear-gradient(180deg,rgba(42,9,10,1.00) 40.41%,rgba(66,38,38,1.00) 74.61%);
+}
+    a:link {
+    color: #7E7380;
+}
+    body,td,th {
+    color: #000000;
+}
+    body table {
+    border-radius: 15px;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+    tr td p {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+    </style>
