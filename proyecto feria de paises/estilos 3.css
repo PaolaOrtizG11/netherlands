@@ -1,0 +1,41 @@
+@charset "utf-8";
+<style type="text/css">
+a:link {
+    color: #0F05FC;
+}
+a:visited {
+    color: #FF0000;
+}
+body,td,th {
+    color: #FFFFFF;
+}
+body {
+    background-color: #8E1D1D;
+}
+</style>
+body {
+}
+tr td h1 {
+}
+tbody tr td {
+}
+body table {
+    background-color: #19316D;
+}
+	body {
+    background-image: url(background.jpg);
+}
+    a:link {
+    color: #7E7380;
+}
+    body,td,th {
+    color: #000000;
+}
+    body table {
+    border-radius: 15px;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+    tr td p {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+    </style>
